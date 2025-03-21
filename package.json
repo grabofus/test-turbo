@@ -14,7 +14,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "turbo": "^2.4.4"
+    "turbo": "^2.4.5-canary.6"
   },
   "packageManager": "npm@8.3.1"
 }
