@@ -6,8 +6,8 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "turbo run build",
-    "build:watch": "turbo watch build"
+    "start": "turbo watch build",
+    "build": "turbo run build"
   },
   "keywords": [],
   "author": "grabofus",
